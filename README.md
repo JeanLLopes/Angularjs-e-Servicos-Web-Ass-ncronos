@@ -1,6 +1,6 @@
 # Angular.js e Serviços Web Assíncronos
 
-<a href="https://www.meetup.com/pt-BR/NetCoders/events/235905917/"><https://www.meetup.com/pt-BR/NetCoders</a>
+<a href="https://www.meetup.com/pt-BR/NetCoders/events/235905917/">www.meetup.com/pt-BR/NetCoders</a>
 
 <div id="past-event-description-wrap" itemprop="description" class="line margin-bottom padding-top ">
 
